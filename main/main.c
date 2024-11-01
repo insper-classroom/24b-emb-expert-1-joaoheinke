@@ -131,6 +131,6 @@ int main() {
     // Início do agendador do FreeRTOS
     vTaskStartScheduler();
 
-    // O código não deve chegar aqui
+    // O código não  chegar aqui
     while (1) {}
 }
